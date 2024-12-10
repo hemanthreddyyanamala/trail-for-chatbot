@@ -1,4 +1,4 @@
-!pip install nltk
+pip install nltk
 import os
 import json
 import datetime

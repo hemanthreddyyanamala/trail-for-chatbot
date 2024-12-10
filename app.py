@@ -1,10 +1,3 @@
-import subprocess
-import sys
-
-def install_nltk():
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "nltk"])
-
-install_nltk()  # This will install nltk
 
 import os
 import json

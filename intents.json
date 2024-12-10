@@ -17,6 +17,17 @@
         ]
     },
     {
+        "tag": "love",
+        "patterns": [
+            
+            "i love you"
+            
+        ],
+        "responses": [
+            "chadhuvukondi firstuu.."
+        ]
+    },
+    {
         "tag": "goodbye",
         "patterns": [
             "Bye",

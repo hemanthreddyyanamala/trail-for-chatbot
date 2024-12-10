@@ -25,9 +25,21 @@
             "Take care"
         ],
         "responses": [
-            "chadhuvukondi firstuu.."
+            "Goodbye",
+            "See you later",
+            "Take care"
         ]
     },
+    {
+        "tag": "goodbye",
+        "patterns": [
+            "i love you"
+        ],
+        "responses": [
+            "chadhuvukondi firstu..."
+        ]
+    },
+    
     {
         "tag": "thanks",
         "patterns": [

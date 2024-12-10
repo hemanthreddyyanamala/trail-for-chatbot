@@ -31,9 +31,11 @@
         ]
     },
     {
-        "tag": "goodbye",
+        "tag": "loveguru",
         "patterns": [
-            "i love you"
+            "i love you",
+            "love you",
+            "luv u"
         ],
         "responses": [
             "chadhuvukondi firstu..."
